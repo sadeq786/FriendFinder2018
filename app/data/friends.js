@@ -3,31 +3,31 @@ var friendsArray = [
     "name":"Ahmed",
     "photo":"https://i.imgur.com/GI3c2Qz.jpg",
     "scores":[
-        5,
         1,
-        4,
-        4,
-        5,
+        1,
+        1,
+        1,
         1,
         2,
-        5,
-        4,
-        1
+        2,
+        2,
+        2,
+        2
       ]
   },
   {
     "name":"Rachel",
     "photo":"https://media.licdn.com/dms/image/C5103AQGbIGmq6OCeQw/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=XfaG0ACSpVyscr-ywTEDQn4w0OGLjWnsCR5PrQyrLVM",
     "scores":[
-        1,
         2,
-        5,
+        2,
+        2,
+        2,
+        2,
         3,
-        5,
-        2,
-        2,
-        1,
-        2,
+        3,
+        3,
+        3,
         3
       ]
   },
@@ -41,26 +41,26 @@ var friendsArray = [
         3,
         3,
         3,
-        3,
-        3,
-        3,
-        5
+        4,
+        4,
+        4,
+        4
       ]
   },
   {
     "name":"Linda",
     "photo":"https://i.imgur.com/QDqr5oq.jpg",
     "scores":[
-        3,
-        5,
-        5,
-        5,
         4,
         4,
-        1,
-        1,
-        1,
-        2
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
       ]
   },
   {
