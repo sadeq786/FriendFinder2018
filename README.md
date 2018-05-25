@@ -5,7 +5,7 @@ Friend Finder implements friend matching based on the user's responses to a ten 
 Friend Finder application is meant to simulate a simple dating app. The application is implemented using a Node.js and Express server on the back end and Bootstrap framework on the front end.
 
 ## Demo
-Friend Finder is deployed to Heroku. Please check it out here.
+Friend Finder is deployed to Heroku. Please check it out [here](https://sadeq-friendfinder-2018.herokuapp.com/)
 
 ## Installation
 To install the application follow the instructions below:
