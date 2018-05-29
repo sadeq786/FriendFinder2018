@@ -7,6 +7,8 @@ Friend Finder application is meant to simulate a simple dating app. The applicat
 ## Demo
 Friend Finder is deployed to Heroku. Please check it out [here](https://sadeq-friendfinder-2018.herokuapp.com/)
 
+You can also find it linked in my portfolio website [here](https://sadeq786.github.io/new-bootstrap-portfolio/)
+
 ## Installation
 To install the application follow the instructions below:
 
